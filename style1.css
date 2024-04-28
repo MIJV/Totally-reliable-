@@ -1,0 +1,29 @@
+.follow-us {
+	text-align: center;
+}
+
+.follow-us ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.follow-us li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+.follow-us a {
+	color: #333;
+	text-decoration: none;
+}
+
+.follow-us a:hover {
+	color: #666;
+}
+
+.fa {
+	font-size: 24px;
+	margin-right: 10px;
+}
+

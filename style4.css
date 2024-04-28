@@ -1,0 +1,177 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.latest-news {
+    background-color: #f7f7f7;
+    padding: 20px;
+}
+
+.latest-news ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.latest-news li {
+    margin-bottom: 20px;
+}
+
+.latest-news a {
+    text-decoration: none;
+    color: #333;
+}
+
+.latest-news img {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+.top-stories {
+    background-color: #f7f7f7;
+    padding: 20px;
+}
+
+.top-stories ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.top-stories li {
+    margin-bottom: 20px;
+}
+
+.top-stories a {
+    text-decoration: none;
+    color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.latest-news {
+    background-color: #f7f7f7;
+    padding: 20px;
+}
+
+.latest-news ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.latest-news li {
+    margin-bottom: 20px;
+}
+
+.latest-news a {
+    text-decoration: none;
+    color: #333;
+}
+
+.latest-news img {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+.top-stories {
+    background-color: #f7f7f7;
+    padding: 20px;
+}
+
+.top-stories ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.top-stories li {
+    margin-bottom: 20px;
+}
+
+.top-stories a {
+    text-decoration: none;
+    color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
